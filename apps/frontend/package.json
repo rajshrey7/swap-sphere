@@ -10,8 +10,12 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@liveblocks/client": "^3.10.0",
+    "@liveblocks/react": "^3.10.0",
     "@livekit/components-react": "^2.9.15",
     "@tailwindcss/vite": "^4.1.17",
+    "@tldraw/tldraw": "^4.1.2",
+    "axios": "^1.13.2",
     "install": "^0.13.0",
     "livekit-client": "^2.15.14",
     "livekit-server-sdk": "^2.14.0",
