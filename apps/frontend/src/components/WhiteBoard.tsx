@@ -1,8 +1,6 @@
-import { LiveblocksProvider, RoomProvider, useRoom } from "@liveblocks/react";
-import { createTLStore, defaultShapeUtils, Tldraw } from "@tldraw/tldraw";
-import { useSync } from '@tldraw/sync'
+import { LiveblocksProvider, RoomProvider } from "@liveblocks/react";
+import { Tldraw } from "@tldraw/tldraw";
 import '@tldraw/tldraw/tldraw.css';
-import { useMemo } from "react";
 
 
 // function WhiteboardEditor() {
